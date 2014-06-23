@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name        = 'REFrostedViewController'
+  s.name        = 'REFrostedViewController-immedia'
   s.version     = '2.4.6'
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
   s.homepage    = 'https://github.com/romaonthego/REFrostedViewController'
